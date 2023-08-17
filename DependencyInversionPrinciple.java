@@ -1,6 +1,6 @@
 interface Emoji
 {
-    void ShowEmoji();
+    void ShowEmoji(); // ShowEmoji is written with upperCase because its a method & we cann't write a method with lowerCase at the begining.
 }
 
 class Expression
